@@ -25,7 +25,7 @@ public class dataDriven {
 			{
 				
 				System.out.println("develop");
-				System.out.println("develop");
+				System.out.println("tester");
 				
 				System.out.println("ok");
 				System.out.println("bye");
