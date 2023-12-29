@@ -24,8 +24,8 @@ public class dataDriven {
 			if(workbook.getSheetName(i).equalsIgnoreCase("RSTtestdata"))
 			{
 				
-				System.out.println("hello");
-				System.out.println("hi");
+				System.out.println("develop");
+				System.out.println("develop");
 				
 				System.out.println("ok");
 				System.out.println("bye");
