@@ -24,6 +24,8 @@ public class dataDriven {
 			if(workbook.getSheetName(i).equalsIgnoreCase("RSTtestdata"))
 			{
 				
+				System.out.println("hi");
+				
 				XSSFSheet sheet=workbook.getSheetAt(i);
 				
 				Iterator<Row> rows=sheet.iterator();
