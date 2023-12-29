@@ -21,7 +21,7 @@ public class dataDriven {
 		int sheets=workbook.getNumberOfSheets();
 		for(int i=0;i<sheets;i++)
 		{
-			if(workbook.getSheetName(i).equalsIgnoreCase("testdata"))
+			if(workbook.getSheetName(i).equalsIgnoreCase("RSTtestdata"))
 			{
 				
 				XSSFSheet sheet=workbook.getSheetAt(i);
